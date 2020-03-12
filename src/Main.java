@@ -52,5 +52,6 @@ public class Main {
                 System.out.println(wallet);
         }
         run(sc, wallet);
+        //zmina
     }
 }
